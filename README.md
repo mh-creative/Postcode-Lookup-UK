@@ -3,11 +3,6 @@
 
 This project utilises the open-source API provided by https://postcodes.io/ to facilitate the retrieval of UK postcode data. Users can enter a postcode and access corresponding geographical information.
 
-
-## Key Evaluation Criteria
-
-#### The key evaluation criteria that will be used is:
-
  
 - #### Functionality:
 
