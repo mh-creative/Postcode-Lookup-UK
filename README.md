@@ -1,5 +1,5 @@
 
-#Postcode Information
+## Postcode Lookup (UK)
 
 This project utilises the open-source API provided by https://postcodes.io/ to facilitate the retrieval of UK postcode data. Users can enter a postcode and access corresponding geographical information.
 
@@ -50,5 +50,5 @@ This project utilises the open-source API provided by https://postcodes.io/ to f
 
 ## Authors
 
-- [Michael Hayes]
+- Michael Hayes
 
