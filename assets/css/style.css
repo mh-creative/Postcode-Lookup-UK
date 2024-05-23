@@ -1,0 +1,18 @@
+.logo img{
+    width: 100%;
+}
+
+span#basic-addon1 {
+    border-radius: .375rem 0 0 .375rem;
+}
+
+#basic-addon1 img {
+    width: 20px;
+    height: auto;
+}
+
+.wrap {
+    border: 1px solid #555;
+    padding: 10%;
+    border-radius: 10px;
+}
