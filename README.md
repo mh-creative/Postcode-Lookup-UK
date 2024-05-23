@@ -9,20 +9,20 @@ This project utilises the open-source API provided by https://postcodes.io/ to f
 #### The key evaluation criteria that will be used is:
 
  
-- #### Functionality: Does your solution meet the specified requirements?
+- #### Functionality:
 
-    - The solution meets the specified requirements by utilising the open source API: https://postcodes.io/ and allowing a user to search for a postcode in the UK and retrieving the specified geographical information and displaying it on the webpage.
+    - The solution utilises the open source API: https://postcodes.io/ and allows a user to search for a postcode in the UK and retrieving the specified geographical information and displaying it on the webpage.
 
-- #### Code Quality: Is your code well-organized, readable, and maintainable?
+- #### Code Quality:
 
     - The project has been organised into distinct files or components, with each one assigned to a specific task, ensuring a well-structured system. Additionally, the code itself is neatly arranged, accompanied by comments detailing the functionality of each code block. Considering these aspects, the project and its code are highly maintainable.
 
-- #### Efficiency: Is your solution optimized, considering time and space complexity?
+- #### Efficiency
 
     - Overall, the solution is optimised considering the task at hand. It efficiently handles the sanitisation of input, retrieves geographical information, and generates output HTML content without introducing unnecessary complexity or overhead. However, the performance of the solution may be affected by external factors such as network latency and the responsiveness of the external API service.
 
 
-## Tech Stack
+## Stack
 
 **Client:** Bootstrap, jQuery
 
@@ -50,5 +50,5 @@ This project utilises the open-source API provided by https://postcodes.io/ to f
 
 ## Authors
 
-- [@mhcreative](https://bitbucket.org/mh24projects/workspace/repositories/)
+- [Michael Hayes]
 
